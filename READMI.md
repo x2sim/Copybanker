@@ -47,7 +47,7 @@
 поверх остальных. В случае, если окно программы закрывает обзор какого либо документа,
 передвиньте его, зажав левую клавишу мыши над названием окна и переместите в удобное место.
 Вы также можете настроить прозрачность окна программы, используя положение слайдера:
-<a href="https://ibb.co/DLSMsXp"><img src="https://i.ibb.co/GFbMBwT/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://showclassdance.ru/'
+<a href="https://ibb.co/DLSMsXp"><img src="https://i.ibb.co/GFbMBwT/2.jpg" alt="2" border="0"></a><br /><a target='_blank' 
 
 
 
